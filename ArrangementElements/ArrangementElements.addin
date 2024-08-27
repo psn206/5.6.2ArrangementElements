@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPI\ArrangementElements.dll"</Assembly>
+		<AddInId>22CFCE9C-039F-4576-B95A-677B28C8D37A</AddInId>
+		<FullClassName>ArrangementElements.Main</FullClassName>
+		<VendorId>ADSC</VendorId>
+		<Text>Расстановка элементов</Text>	
+	</AddIn>
+</RevitAddIns>
+
+
